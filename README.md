@@ -1,1 +1,1 @@
-![banner](./banner_whoami.png)
+![banner](./terminal_banner.gif)
